@@ -1,13 +1,13 @@
 # **ABOUT THE AUTHOR**
-##NAME
+## NAME
 - I am _Shri Prakash R_.
-##WHOAMI
+## WHOAMI
 - I am a guy who thinks resaonably rational.
-##HOBBIES
+## HOBBIES
 - I like to draw and listen to music in my free time.
-##ABOUT GIT
+## ABOUT GIT
 - I assumed this to be hard to undertand but in reality its not that hostile towards beginners which got me by suprise.
 - The whole idea of staging files before commiting is useful in my opinion so i'd  say 'add' which allows git to track the added file(staging).
-##WHAT I LEARNT
+## WHAT I LEARNT
 - I am learning how Git and GitHub work together.
 
